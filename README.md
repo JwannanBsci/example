@@ -1,7 +1,4 @@
-# example  david  
-# ejemplo david
-# example  david
-# ejemplo jose
+# example
 ### Documentacion
 
 ## ready for completion
